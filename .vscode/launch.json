@@ -1,0 +1,18 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // That's the project configuration name
+            "name": "Dart",
+            // Tells that you want to run the project
+            "request": "launch",
+            // Tells that's a dart project
+            "type": "dart",
+            // Location where your program will start its execution
+            "program": "bin/advanced_classes/main.dart"
+        }
+    ]
+}
